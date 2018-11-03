@@ -1,0 +1,11 @@
+autopep8==1.4.2
+flake8==3.6.0
+jedi==0.13.1
+mccabe==0.6.1
+numpy==1.15.3
+parso==0.3.1
+Pillow==5.3.0
+pycodestyle==2.4.0
+pyflakes==2.0.0
+rope==0.11.0
+yapf==0.24.0
